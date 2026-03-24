@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João P. Reis
+# 👨🏾‍💻 João P. Reis
 
 **`Desenvolvedor FullStack`**
 
