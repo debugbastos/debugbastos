@@ -2,80 +2,61 @@
 <h3 align="center">Desenvolvedor FullStack</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=debugbastos">
-    <img src="https://komarev.com/ghpvc/?username=debugbastos&label=Profile%20views&color=00FFFF&style=flat-square" alt="debugbastos's profile views" />
+  <a href="https://github.com/debugbastos">
+    <img src="https://komarev.com/ghpvc/?username=debugbastos&label=Profile%20views&color=00FFFF&style=flat-square" />
   </a>
 </p>
 
+<!-- Mario alinhado -->
 <img 
   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
   alt="Mario" 
-  width="260px" 
-  align="right" 
-  style="margin-left: 25px; margin-bottom: 20px;"
+  min-width="300px" 
+  max-width="300px" 
+  width="300px" 
+  align="right"
 />
 
-## 📌 About Me
-- Estou aprendendo no momento: Análise e Desenvolvimento de Sistemas  
-- Estou querendo colaborar em: projetos open source e aplicações web  
-- Estou procurando ajuda com: boas práticas de arquitetura e desenvolvimento  
-
-<br clear="right"/>
-
-## 🧠 My Focus Areas
-- Desenvolvimento web  
-- Desenvolvimento de software  
-- Web design  
+<p align="left"> 
+  Olá! Me chamo <strong>João Pedro Bastos dos Reis</strong> 👋<br>
+  Tenho 17 anos e sou natural de Juiz de Fora - MG.<br>
+  Estou no 3° ano do ensino médio e curso técnico em <strong>Análise e Desenvolvimento de Sistemas</strong> pela Proz, conciliando estudos e trabalho.<br>
+  Sou apaixonado por tecnologia, focado em <strong>front-end</strong> e na criação de projetos, buscando evoluir constantemente para me tornar fullstack 🚀<br>
+  Você pode me acompanhar pelo Instagram "<a href="https://www.instagram.com/_reis.jf" target="_blank">_reis.jf</a>" ou entrar em contato pelo e-mail <strong>bastos.program@gmail.com</strong>.
+</p>
 
 ---
 
-## 📊 GitHub Stats & Trophies
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/debugbastos">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=debugbastos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=debugbastos&theme=dark&border_radius=10" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=debugbastos&theme=dark&hide_border=true&cache_seconds=86400" width="49%" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=debugbastos&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 💌 Contato
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://wa.me/32985137560" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="40"/>
+<p align="left">
+  <a href="mailto:bastos.program@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:bastos.program@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+  <a href="https://wa.me/32985137560">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/debugbastos">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
