@@ -38,10 +38,6 @@
   <img src="https://streak-stats.demolab.com/?user=debugbastos&theme=dark&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=debugbastos&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
-</p>
-
 ---
 
 ## 🛠️ Languages & Tools
