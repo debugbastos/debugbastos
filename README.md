@@ -29,6 +29,6 @@
 ---
 
 ## Contatos
-![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white) 
-![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastos.program@gmail.com) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_reis.jf/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debugbastos)
